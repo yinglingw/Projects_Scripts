@@ -1,0 +1,8 @@
+Written in BASH, the purpose of the script is to run clean up and archiving of a Digital Terrain Model 
+product after the map has been fully created. The files are moved from a local computer
+to a remote server for permanent storage. 
+
+Additionally, there is a second half of the process alluded to within the script but I have not it published here.
+
+The script has been modified from its original form in order to mask some 
+of the more sensitive connections the script makes.  
